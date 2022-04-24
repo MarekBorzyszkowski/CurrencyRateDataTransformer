@@ -23,7 +23,7 @@ import java.util.stream.Collectors;
 public class NbpExchangeRatesService implements ExchangeRatesService {
 
     @Value("${rates.precision}")
-    private int precision;
+    private int precision = 4;
     private final NbpExchangeRatesClient nbpExchangeRatesClient = Feign.builder()
             .client(new OkHttpClient())
             .encoder(new GsonEncoder())

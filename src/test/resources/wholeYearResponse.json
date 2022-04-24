@@ -1,0 +1,1780 @@
+[
+  {
+    "effectiveDate": "2021-01-04",
+    "bid": "3.7208",
+    "ask": "3.7960",
+    "bidDifference": "0,0000",
+    "askDifference": "0,0000"
+  },
+  {
+    "effectiveDate": "2021-01-05",
+    "bid": "3.6687",
+    "ask": "3.7429",
+    "bidDifference": "-0,0521",
+    "askDifference": "-0,0531"
+  },
+  {
+    "effectiveDate": "2021-01-07",
+    "bid": "3.6671",
+    "ask": "3.7411",
+    "bidDifference": "-0,0016",
+    "askDifference": "-0,0018"
+  },
+  {
+    "effectiveDate": "2021-01-08",
+    "bid": "3.6382",
+    "ask": "3.7118",
+    "bidDifference": "-0,0289",
+    "askDifference": "-0,0293"
+  },
+  {
+    "effectiveDate": "2021-01-11",
+    "bid": "3.6492",
+    "ask": "3.7230",
+    "bidDifference": "0,0110",
+    "askDifference": "0,0112"
+  },
+  {
+    "effectiveDate": "2021-01-12",
+    "bid": "3.6945",
+    "ask": "3.7691",
+    "bidDifference": "0,0453",
+    "askDifference": "0,0461"
+  },
+  {
+    "effectiveDate": "2021-01-13",
+    "bid": "3.6861",
+    "ask": "3.7605",
+    "bidDifference": "-0,0084",
+    "askDifference": "-0,0086"
+  },
+  {
+    "effectiveDate": "2021-01-14",
+    "bid": "3.6821",
+    "ask": "3.7565",
+    "bidDifference": "-0,0040",
+    "askDifference": "-0,0040"
+  },
+  {
+    "effectiveDate": "2021-01-15",
+    "bid": "3.7115",
+    "ask": "3.7865",
+    "bidDifference": "0,0294",
+    "askDifference": "0,0300"
+  },
+  {
+    "effectiveDate": "2021-01-18",
+    "bid": "3.7158",
+    "ask": "3.7908",
+    "bidDifference": "0,0043",
+    "askDifference": "0,0043"
+  },
+  {
+    "effectiveDate": "2021-01-19",
+    "bid": "3.7161",
+    "ask": "3.7911",
+    "bidDifference": "0,0003",
+    "askDifference": "0,0003"
+  },
+  {
+    "effectiveDate": "2021-01-20",
+    "bid": "3.7000",
+    "ask": "3.7748",
+    "bidDifference": "-0,0161",
+    "askDifference": "-0,0163"
+  },
+  {
+    "effectiveDate": "2021-01-21",
+    "bid": "3.7135",
+    "ask": "3.7885",
+    "bidDifference": "0,0135",
+    "askDifference": "0,0137"
+  },
+  {
+    "effectiveDate": "2021-01-22",
+    "bid": "3.6932",
+    "ask": "3.7678",
+    "bidDifference": "-0,0203",
+    "askDifference": "-0,0207"
+  },
+  {
+    "effectiveDate": "2021-01-25",
+    "bid": "3.6903",
+    "ask": "3.7649",
+    "bidDifference": "-0,0029",
+    "askDifference": "-0,0029"
+  },
+  {
+    "effectiveDate": "2021-01-26",
+    "bid": "3.7077",
+    "ask": "3.7827",
+    "bidDifference": "0,0174",
+    "askDifference": "0,0178"
+  },
+  {
+    "effectiveDate": "2021-01-27",
+    "bid": "3.7010",
+    "ask": "3.7758",
+    "bidDifference": "-0,0067",
+    "askDifference": "-0,0069"
+  },
+  {
+    "effectiveDate": "2021-01-28",
+    "bid": "3.7326",
+    "ask": "3.8080",
+    "bidDifference": "0,0316",
+    "askDifference": "0,0322"
+  },
+  {
+    "effectiveDate": "2021-01-29",
+    "bid": "3.7118",
+    "ask": "3.7868",
+    "bidDifference": "-0,0208",
+    "askDifference": "-0,0212"
+  },
+  {
+    "effectiveDate": "2021-02-01",
+    "bid": "3.6900",
+    "ask": "3.7646",
+    "bidDifference": "-0,0218",
+    "askDifference": "-0,0222"
+  },
+  {
+    "effectiveDate": "2021-02-02",
+    "bid": "3.6951",
+    "ask": "3.7697",
+    "bidDifference": "0,0051",
+    "askDifference": "0,0051"
+  },
+  {
+    "effectiveDate": "2021-02-03",
+    "bid": "3.6860",
+    "ask": "3.7604",
+    "bidDifference": "-0,0091",
+    "askDifference": "-0,0093"
+  },
+  {
+    "effectiveDate": "2021-02-04",
+    "bid": "3.6992",
+    "ask": "3.7740",
+    "bidDifference": "0,0132",
+    "askDifference": "0,0136"
+  },
+  {
+    "effectiveDate": "2021-02-05",
+    "bid": "3.7159",
+    "ask": "3.7909",
+    "bidDifference": "0,0167",
+    "askDifference": "0,0169"
+  },
+  {
+    "effectiveDate": "2021-02-08",
+    "bid": "3.6964",
+    "ask": "3.7710",
+    "bidDifference": "-0,0195",
+    "askDifference": "-0,0199"
+  },
+  {
+    "effectiveDate": "2021-02-09",
+    "bid": "3.6767",
+    "ask": "3.7509",
+    "bidDifference": "-0,0197",
+    "askDifference": "-0,0201"
+  },
+  {
+    "effectiveDate": "2021-02-10",
+    "bid": "3.6662",
+    "ask": "3.7402",
+    "bidDifference": "-0,0105",
+    "askDifference": "-0,0107"
+  },
+  {
+    "effectiveDate": "2021-02-11",
+    "bid": "3.6583",
+    "ask": "3.7323",
+    "bidDifference": "-0,0079",
+    "askDifference": "-0,0079"
+  },
+  {
+    "effectiveDate": "2021-02-12",
+    "bid": "3.6733",
+    "ask": "3.7475",
+    "bidDifference": "0,0150",
+    "askDifference": "0,0152"
+  },
+  {
+    "effectiveDate": "2021-02-15",
+    "bid": "3.6831",
+    "ask": "3.7575",
+    "bidDifference": "0,0098",
+    "askDifference": "0,0100"
+  },
+  {
+    "effectiveDate": "2021-02-16",
+    "bid": "3.6590",
+    "ask": "3.7330",
+    "bidDifference": "-0,0241",
+    "askDifference": "-0,0245"
+  },
+  {
+    "effectiveDate": "2021-02-17",
+    "bid": "3.6785",
+    "ask": "3.7529",
+    "bidDifference": "0,0195",
+    "askDifference": "0,0199"
+  },
+  {
+    "effectiveDate": "2021-02-18",
+    "bid": "3.7015",
+    "ask": "3.7763",
+    "bidDifference": "0,0230",
+    "askDifference": "0,0234"
+  },
+  {
+    "effectiveDate": "2021-02-19",
+    "bid": "3.6831",
+    "ask": "3.7575",
+    "bidDifference": "-0,0184",
+    "askDifference": "-0,0188"
+  },
+  {
+    "effectiveDate": "2021-02-22",
+    "bid": "3.6589",
+    "ask": "3.7329",
+    "bidDifference": "-0,0242",
+    "askDifference": "-0,0246"
+  },
+  {
+    "effectiveDate": "2021-02-23",
+    "bid": "3.6627",
+    "ask": "3.7367",
+    "bidDifference": "0,0038",
+    "askDifference": "0,0038"
+  },
+  {
+    "effectiveDate": "2021-02-24",
+    "bid": "3.6735",
+    "ask": "3.7477",
+    "bidDifference": "0,0108",
+    "askDifference": "0,0110"
+  },
+  {
+    "effectiveDate": "2021-02-25",
+    "bid": "3.6878",
+    "ask": "3.7624",
+    "bidDifference": "0,0143",
+    "askDifference": "0,0147"
+  },
+  {
+    "effectiveDate": "2021-02-26",
+    "bid": "3.6465",
+    "ask": "3.7201",
+    "bidDifference": "-0,0413",
+    "askDifference": "-0,0423"
+  },
+  {
+    "effectiveDate": "2021-03-01",
+    "bid": "3.6918",
+    "ask": "3.7664",
+    "bidDifference": "0,0453",
+    "askDifference": "0,0463"
+  },
+  {
+    "effectiveDate": "2021-03-02",
+    "bid": "3.7236",
+    "ask": "3.7988",
+    "bidDifference": "0,0318",
+    "askDifference": "0,0324"
+  },
+  {
+    "effectiveDate": "2021-03-03",
+    "bid": "3.7272",
+    "ask": "3.8024",
+    "bidDifference": "0,0036",
+    "askDifference": "0,0036"
+  },
+  {
+    "effectiveDate": "2021-03-04",
+    "bid": "3.7327",
+    "ask": "3.8081",
+    "bidDifference": "0,0055",
+    "askDifference": "0,0057"
+  },
+  {
+    "effectiveDate": "2021-03-05",
+    "bid": "3.7492",
+    "ask": "3.8250",
+    "bidDifference": "0,0165",
+    "askDifference": "0,0169"
+  },
+  {
+    "effectiveDate": "2021-03-08",
+    "bid": "3.8198",
+    "ask": "3.8970",
+    "bidDifference": "0,0706",
+    "askDifference": "0,0720"
+  },
+  {
+    "effectiveDate": "2021-03-09",
+    "bid": "3.8340",
+    "ask": "3.9114",
+    "bidDifference": "0,0142",
+    "askDifference": "0,0144"
+  },
+  {
+    "effectiveDate": "2021-03-10",
+    "bid": "3.8113",
+    "ask": "3.8883",
+    "bidDifference": "-0,0227",
+    "askDifference": "-0,0231"
+  },
+  {
+    "effectiveDate": "2021-03-11",
+    "bid": "3.7978",
+    "ask": "3.8746",
+    "bidDifference": "-0,0135",
+    "askDifference": "-0,0137"
+  },
+  {
+    "effectiveDate": "2021-03-12",
+    "bid": "3.7963",
+    "ask": "3.8729",
+    "bidDifference": "-0,0015",
+    "askDifference": "-0,0017"
+  },
+  {
+    "effectiveDate": "2021-03-15",
+    "bid": "3.8007",
+    "ask": "3.8775",
+    "bidDifference": "0,0044",
+    "askDifference": "0,0046"
+  },
+  {
+    "effectiveDate": "2021-03-16",
+    "bid": "3.8080",
+    "ask": "3.8850",
+    "bidDifference": "0,0073",
+    "askDifference": "0,0075"
+  },
+  {
+    "effectiveDate": "2021-03-17",
+    "bid": "3.8177",
+    "ask": "3.8949",
+    "bidDifference": "0,0097",
+    "askDifference": "0,0099"
+  },
+  {
+    "effectiveDate": "2021-03-18",
+    "bid": "3.8329",
+    "ask": "3.9103",
+    "bidDifference": "0,0152",
+    "askDifference": "0,0154"
+  },
+  {
+    "effectiveDate": "2021-03-19",
+    "bid": "3.8401",
+    "ask": "3.9177",
+    "bidDifference": "0,0072",
+    "askDifference": "0,0074"
+  },
+  {
+    "effectiveDate": "2021-03-22",
+    "bid": "3.8458",
+    "ask": "3.9234",
+    "bidDifference": "0,0057",
+    "askDifference": "0,0057"
+  },
+  {
+    "effectiveDate": "2021-03-23",
+    "bid": "3.8183",
+    "ask": "3.8955",
+    "bidDifference": "-0,0275",
+    "askDifference": "-0,0279"
+  },
+  {
+    "effectiveDate": "2021-03-24",
+    "bid": "3.8507",
+    "ask": "3.9285",
+    "bidDifference": "0,0324",
+    "askDifference": "0,0330"
+  },
+  {
+    "effectiveDate": "2021-03-25",
+    "bid": "3.8778",
+    "ask": "3.9562",
+    "bidDifference": "0,0271",
+    "askDifference": "0,0277"
+  },
+  {
+    "effectiveDate": "2021-03-26",
+    "bid": "3.8954",
+    "ask": "3.9740",
+    "bidDifference": "0,0176",
+    "askDifference": "0,0178"
+  },
+  {
+    "effectiveDate": "2021-03-29",
+    "bid": "3.8956",
+    "ask": "3.9742",
+    "bidDifference": "0,0002",
+    "askDifference": "0,0002"
+  },
+  {
+    "effectiveDate": "2021-03-30",
+    "bid": "3.9214",
+    "ask": "4.0006",
+    "bidDifference": "0,0258",
+    "askDifference": "0,0264"
+  },
+  {
+    "effectiveDate": "2021-03-31",
+    "bid": "3.9345",
+    "ask": "4.0139",
+    "bidDifference": "0,0131",
+    "askDifference": "0,0133"
+  },
+  {
+    "effectiveDate": "2021-04-01",
+    "bid": "3.9198",
+    "ask": "3.9990",
+    "bidDifference": "-0,0147",
+    "askDifference": "-0,0149"
+  },
+  {
+    "effectiveDate": "2021-04-02",
+    "bid": "3.8768",
+    "ask": "3.9552",
+    "bidDifference": "-0,0430",
+    "askDifference": "-0,0438"
+  },
+  {
+    "effectiveDate": "2021-04-06",
+    "bid": "3.8596",
+    "ask": "3.9376",
+    "bidDifference": "-0,0172",
+    "askDifference": "-0,0176"
+  },
+  {
+    "effectiveDate": "2021-04-07",
+    "bid": "3.8421",
+    "ask": "3.9197",
+    "bidDifference": "-0,0175",
+    "askDifference": "-0,0179"
+  },
+  {
+    "effectiveDate": "2021-04-08",
+    "bid": "3.8079",
+    "ask": "3.8849",
+    "bidDifference": "-0,0342",
+    "askDifference": "-0,0348"
+  },
+  {
+    "effectiveDate": "2021-04-09",
+    "bid": "3.7796",
+    "ask": "3.8560",
+    "bidDifference": "-0,0283",
+    "askDifference": "-0,0289"
+  },
+  {
+    "effectiveDate": "2021-04-12",
+    "bid": "3.7830",
+    "ask": "3.8594",
+    "bidDifference": "0,0034",
+    "askDifference": "0,0034"
+  },
+  {
+    "effectiveDate": "2021-04-13",
+    "bid": "3.7676",
+    "ask": "3.8438",
+    "bidDifference": "-0,0154",
+    "askDifference": "-0,0156"
+  },
+  {
+    "effectiveDate": "2021-04-14",
+    "bid": "3.7838",
+    "ask": "3.8602",
+    "bidDifference": "0,0162",
+    "askDifference": "0,0164"
+  },
+  {
+    "effectiveDate": "2021-04-15",
+    "bid": "3.7784",
+    "ask": "3.8548",
+    "bidDifference": "-0,0054",
+    "askDifference": "-0,0054"
+  },
+  {
+    "effectiveDate": "2021-04-16",
+    "bid": "3.7635",
+    "ask": "3.8395",
+    "bidDifference": "-0,0149",
+    "askDifference": "-0,0153"
+  },
+  {
+    "effectiveDate": "2021-04-19",
+    "bid": "3.7571",
+    "ask": "3.8331",
+    "bidDifference": "-0,0064",
+    "askDifference": "-0,0064"
+  },
+  {
+    "effectiveDate": "2021-04-20",
+    "bid": "3.7471",
+    "ask": "3.8227",
+    "bidDifference": "-0,0100",
+    "askDifference": "-0,0104"
+  },
+  {
+    "effectiveDate": "2021-04-21",
+    "bid": "3.7406",
+    "ask": "3.8162",
+    "bidDifference": "-0,0065",
+    "askDifference": "-0,0065"
+  },
+  {
+    "effectiveDate": "2021-04-22",
+    "bid": "3.7571",
+    "ask": "3.8331",
+    "bidDifference": "0,0165",
+    "askDifference": "0,0169"
+  },
+  {
+    "effectiveDate": "2021-04-23",
+    "bid": "3.7535",
+    "ask": "3.8293",
+    "bidDifference": "-0,0036",
+    "askDifference": "-0,0038"
+  },
+  {
+    "effectiveDate": "2021-04-26",
+    "bid": "3.7490",
+    "ask": "3.8248",
+    "bidDifference": "-0,0045",
+    "askDifference": "-0,0045"
+  },
+  {
+    "effectiveDate": "2021-04-27",
+    "bid": "3.7402",
+    "ask": "3.8158",
+    "bidDifference": "-0,0088",
+    "askDifference": "-0,0090"
+  },
+  {
+    "effectiveDate": "2021-04-28",
+    "bid": "3.7408",
+    "ask": "3.8164",
+    "bidDifference": "0,0006",
+    "askDifference": "0,0006"
+  },
+  {
+    "effectiveDate": "2021-04-29",
+    "bid": "3.7620",
+    "ask": "3.8380",
+    "bidDifference": "0,0212",
+    "askDifference": "0,0216"
+  },
+  {
+    "effectiveDate": "2021-04-30",
+    "bid": "3.7366",
+    "ask": "3.8120",
+    "bidDifference": "-0,0254",
+    "askDifference": "-0,0260"
+  },
+  {
+    "effectiveDate": "2021-05-04",
+    "bid": "3.7364",
+    "ask": "3.8118",
+    "bidDifference": "-0,0002",
+    "askDifference": "-0,0002"
+  },
+  {
+    "effectiveDate": "2021-05-05",
+    "bid": "3.7548",
+    "ask": "3.8306",
+    "bidDifference": "0,0184",
+    "askDifference": "0,0188"
+  },
+  {
+    "effectiveDate": "2021-05-06",
+    "bid": "3.7728",
+    "ask": "3.8490",
+    "bidDifference": "0,0180",
+    "askDifference": "0,0184"
+  },
+  {
+    "effectiveDate": "2021-05-07",
+    "bid": "3.7572",
+    "ask": "3.8332",
+    "bidDifference": "-0,0156",
+    "askDifference": "-0,0158"
+  },
+  {
+    "effectiveDate": "2021-05-10",
+    "bid": "3.7255",
+    "ask": "3.8007",
+    "bidDifference": "-0,0317",
+    "askDifference": "-0,0325"
+  },
+  {
+    "effectiveDate": "2021-05-11",
+    "bid": "3.7143",
+    "ask": "3.7893",
+    "bidDifference": "-0,0112",
+    "askDifference": "-0,0114"
+  },
+  {
+    "effectiveDate": "2021-05-12",
+    "bid": "3.6996",
+    "ask": "3.7744",
+    "bidDifference": "-0,0147",
+    "askDifference": "-0,0149"
+  },
+  {
+    "effectiveDate": "2021-05-13",
+    "bid": "3.7171",
+    "ask": "3.7921",
+    "bidDifference": "0,0175",
+    "askDifference": "0,0177"
+  },
+  {
+    "effectiveDate": "2021-05-14",
+    "bid": "3.7055",
+    "ask": "3.7803",
+    "bidDifference": "-0,0116",
+    "askDifference": "-0,0118"
+  },
+  {
+    "effectiveDate": "2021-05-17",
+    "bid": "3.6913",
+    "ask": "3.7659",
+    "bidDifference": "-0,0142",
+    "askDifference": "-0,0144"
+  },
+  {
+    "effectiveDate": "2021-05-18",
+    "bid": "3.6964",
+    "ask": "3.7710",
+    "bidDifference": "0,0051",
+    "askDifference": "0,0051"
+  },
+  {
+    "effectiveDate": "2021-05-19",
+    "bid": "3.6646",
+    "ask": "3.7386",
+    "bidDifference": "-0,0318",
+    "askDifference": "-0,0324"
+  },
+  {
+    "effectiveDate": "2021-05-20",
+    "bid": "3.6607",
+    "ask": "3.7347",
+    "bidDifference": "-0,0039",
+    "askDifference": "-0,0039"
+  },
+  {
+    "effectiveDate": "2021-05-21",
+    "bid": "3.6496",
+    "ask": "3.7234",
+    "bidDifference": "-0,0111",
+    "askDifference": "-0,0113"
+  },
+  {
+    "effectiveDate": "2021-05-24",
+    "bid": "3.6471",
+    "ask": "3.7207",
+    "bidDifference": "-0,0025",
+    "askDifference": "-0,0027"
+  },
+  {
+    "effectiveDate": "2021-05-25",
+    "bid": "3.6318",
+    "ask": "3.7052",
+    "bidDifference": "-0,0153",
+    "askDifference": "-0,0155"
+  },
+  {
+    "effectiveDate": "2021-05-26",
+    "bid": "3.6231",
+    "ask": "3.6963",
+    "bidDifference": "-0,0087",
+    "askDifference": "-0,0089"
+  },
+  {
+    "effectiveDate": "2021-05-27",
+    "bid": "3.6378",
+    "ask": "3.7112",
+    "bidDifference": "0,0147",
+    "askDifference": "0,0149"
+  },
+  {
+    "effectiveDate": "2021-05-28",
+    "bid": "3.6406",
+    "ask": "3.7142",
+    "bidDifference": "0,0028",
+    "askDifference": "0,0030"
+  },
+  {
+    "effectiveDate": "2021-05-31",
+    "bid": "3.6496",
+    "ask": "3.7234",
+    "bidDifference": "0,0090",
+    "askDifference": "0,0092"
+  },
+  {
+    "effectiveDate": "2021-06-01",
+    "bid": "3.6372",
+    "ask": "3.7106",
+    "bidDifference": "-0,0124",
+    "askDifference": "-0,0128"
+  },
+  {
+    "effectiveDate": "2021-06-02",
+    "bid": "3.6115",
+    "ask": "3.6845",
+    "bidDifference": "-0,0257",
+    "askDifference": "-0,0261"
+  },
+  {
+    "effectiveDate": "2021-06-04",
+    "bid": "3.6208",
+    "ask": "3.6940",
+    "bidDifference": "0,0093",
+    "askDifference": "0,0095"
+  },
+  {
+    "effectiveDate": "2021-06-07",
+    "bid": "3.6302",
+    "ask": "3.7036",
+    "bidDifference": "0,0094",
+    "askDifference": "0,0096"
+  },
+  {
+    "effectiveDate": "2021-06-08",
+    "bid": "3.6320",
+    "ask": "3.7054",
+    "bidDifference": "0,0018",
+    "askDifference": "0,0018"
+  },
+  {
+    "effectiveDate": "2021-06-09",
+    "bid": "3.6296",
+    "ask": "3.7030",
+    "bidDifference": "-0,0024",
+    "askDifference": "-0,0024"
+  },
+  {
+    "effectiveDate": "2021-06-10",
+    "bid": "3.6162",
+    "ask": "3.6892",
+    "bidDifference": "-0,0134",
+    "askDifference": "-0,0138"
+  },
+  {
+    "effectiveDate": "2021-06-11",
+    "bid": "3.6351",
+    "ask": "3.7085",
+    "bidDifference": "0,0189",
+    "askDifference": "0,0193"
+  },
+  {
+    "effectiveDate": "2021-06-14",
+    "bid": "3.6597",
+    "ask": "3.7337",
+    "bidDifference": "0,0246",
+    "askDifference": "0,0252"
+  },
+  {
+    "effectiveDate": "2021-06-15",
+    "bid": "3.6872",
+    "ask": "3.7616",
+    "bidDifference": "0,0275",
+    "askDifference": "0,0279"
+  },
+  {
+    "effectiveDate": "2021-06-16",
+    "bid": "3.6955",
+    "ask": "3.7701",
+    "bidDifference": "0,0083",
+    "askDifference": "0,0085"
+  },
+  {
+    "effectiveDate": "2021-06-17",
+    "bid": "3.6850",
+    "ask": "3.7594",
+    "bidDifference": "-0,0105",
+    "askDifference": "-0,0107"
+  },
+  {
+    "effectiveDate": "2021-06-18",
+    "bid": "3.7734",
+    "ask": "3.8496",
+    "bidDifference": "0,0884",
+    "askDifference": "0,0902"
+  },
+  {
+    "effectiveDate": "2021-06-21",
+    "bid": "3.7961",
+    "ask": "3.8727",
+    "bidDifference": "0,0227",
+    "askDifference": "0,0231"
+  },
+  {
+    "effectiveDate": "2021-06-22",
+    "bid": "3.7696",
+    "ask": "3.8458",
+    "bidDifference": "-0,0265",
+    "askDifference": "-0,0269"
+  },
+  {
+    "effectiveDate": "2021-06-23",
+    "bid": "3.7592",
+    "ask": "3.8352",
+    "bidDifference": "-0,0104",
+    "askDifference": "-0,0106"
+  },
+  {
+    "effectiveDate": "2021-06-24",
+    "bid": "3.7441",
+    "ask": "3.8197",
+    "bidDifference": "-0,0151",
+    "askDifference": "-0,0155"
+  },
+  {
+    "effectiveDate": "2021-06-25",
+    "bid": "3.7471",
+    "ask": "3.8227",
+    "bidDifference": "0,0030",
+    "askDifference": "0,0030"
+  },
+  {
+    "effectiveDate": "2021-06-28",
+    "bid": "3.7312",
+    "ask": "3.8066",
+    "bidDifference": "-0,0159",
+    "askDifference": "-0,0161"
+  },
+  {
+    "effectiveDate": "2021-06-29",
+    "bid": "3.7366",
+    "ask": "3.8120",
+    "bidDifference": "0,0054",
+    "askDifference": "0,0054"
+  },
+  {
+    "effectiveDate": "2021-06-30",
+    "bid": "3.7599",
+    "ask": "3.8359",
+    "bidDifference": "0,0233",
+    "askDifference": "0,0239"
+  },
+  {
+    "effectiveDate": "2021-07-01",
+    "bid": "3.7699",
+    "ask": "3.8461",
+    "bidDifference": "0,0100",
+    "askDifference": "0,0102"
+  },
+  {
+    "effectiveDate": "2021-07-02",
+    "bid": "3.7571",
+    "ask": "3.8331",
+    "bidDifference": "-0,0128",
+    "askDifference": "-0,0130"
+  },
+  {
+    "effectiveDate": "2021-07-05",
+    "bid": "3.7774",
+    "ask": "3.8538",
+    "bidDifference": "0,0203",
+    "askDifference": "0,0207"
+  },
+  {
+    "effectiveDate": "2021-07-06",
+    "bid": "3.7609",
+    "ask": "3.8369",
+    "bidDifference": "-0,0165",
+    "askDifference": "-0,0169"
+  },
+  {
+    "effectiveDate": "2021-07-07",
+    "bid": "3.7617",
+    "ask": "3.8377",
+    "bidDifference": "0,0008",
+    "askDifference": "0,0008"
+  },
+  {
+    "effectiveDate": "2021-07-08",
+    "bid": "3.7961",
+    "ask": "3.8727",
+    "bidDifference": "0,0344",
+    "askDifference": "0,0350"
+  },
+  {
+    "effectiveDate": "2021-07-09",
+    "bid": "3.7975",
+    "ask": "3.8743",
+    "bidDifference": "0,0014",
+    "askDifference": "0,0016"
+  },
+  {
+    "effectiveDate": "2021-07-12",
+    "bid": "3.7943",
+    "ask": "3.8709",
+    "bidDifference": "-0,0032",
+    "askDifference": "-0,0034"
+  },
+  {
+    "effectiveDate": "2021-07-13",
+    "bid": "3.8013",
+    "ask": "3.8781",
+    "bidDifference": "0,0070",
+    "askDifference": "0,0072"
+  },
+  {
+    "effectiveDate": "2021-07-14",
+    "bid": "3.8260",
+    "ask": "3.9032",
+    "bidDifference": "0,0247",
+    "askDifference": "0,0251"
+  },
+  {
+    "effectiveDate": "2021-07-15",
+    "bid": "3.8314",
+    "ask": "3.9088",
+    "bidDifference": "0,0054",
+    "askDifference": "0,0056"
+  },
+  {
+    "effectiveDate": "2021-07-16",
+    "bid": "3.8361",
+    "ask": "3.9135",
+    "bidDifference": "0,0047",
+    "askDifference": "0,0047"
+  },
+  {
+    "effectiveDate": "2021-07-19",
+    "bid": "3.8444",
+    "ask": "3.9220",
+    "bidDifference": "0,0083",
+    "askDifference": "0,0085"
+  },
+  {
+    "effectiveDate": "2021-07-20",
+    "bid": "3.8459",
+    "ask": "3.9235",
+    "bidDifference": "0,0015",
+    "askDifference": "0,0015"
+  },
+  {
+    "effectiveDate": "2021-07-21",
+    "bid": "3.8669",
+    "ask": "3.9451",
+    "bidDifference": "0,0210",
+    "askDifference": "0,0216"
+  },
+  {
+    "effectiveDate": "2021-07-22",
+    "bid": "3.8557",
+    "ask": "3.9335",
+    "bidDifference": "-0,0112",
+    "askDifference": "-0,0116"
+  },
+  {
+    "effectiveDate": "2021-07-23",
+    "bid": "3.8230",
+    "ask": "3.9002",
+    "bidDifference": "-0,0327",
+    "askDifference": "-0,0333"
+  },
+  {
+    "effectiveDate": "2021-07-26",
+    "bid": "3.8431",
+    "ask": "3.9207",
+    "bidDifference": "0,0201",
+    "askDifference": "0,0205"
+  },
+  {
+    "effectiveDate": "2021-07-27",
+    "bid": "3.8519",
+    "ask": "3.9297",
+    "bidDifference": "0,0088",
+    "askDifference": "0,0090"
+  },
+  {
+    "effectiveDate": "2021-07-28",
+    "bid": "3.8472",
+    "ask": "3.9250",
+    "bidDifference": "-0,0047",
+    "askDifference": "-0,0047"
+  },
+  {
+    "effectiveDate": "2021-07-29",
+    "bid": "3.8610",
+    "ask": "3.9390",
+    "bidDifference": "0,0138",
+    "askDifference": "0,0140"
+  },
+  {
+    "effectiveDate": "2021-07-30",
+    "bid": "3.8142",
+    "ask": "3.8912",
+    "bidDifference": "-0,0468",
+    "askDifference": "-0,0478"
+  },
+  {
+    "effectiveDate": "2021-08-02",
+    "bid": "3.8007",
+    "ask": "3.8775",
+    "bidDifference": "-0,0135",
+    "askDifference": "-0,0137"
+  },
+  {
+    "effectiveDate": "2021-08-03",
+    "bid": "3.7941",
+    "ask": "3.8707",
+    "bidDifference": "-0,0066",
+    "askDifference": "-0,0068"
+  },
+  {
+    "effectiveDate": "2021-08-04",
+    "bid": "3.7995",
+    "ask": "3.8763",
+    "bidDifference": "0,0054",
+    "askDifference": "0,0056"
+  },
+  {
+    "effectiveDate": "2021-08-05",
+    "bid": "3.7773",
+    "ask": "3.8537",
+    "bidDifference": "-0,0222",
+    "askDifference": "-0,0226"
+  },
+  {
+    "effectiveDate": "2021-08-06",
+    "bid": "3.8010",
+    "ask": "3.8778",
+    "bidDifference": "0,0237",
+    "askDifference": "0,0241"
+  },
+  {
+    "effectiveDate": "2021-08-09",
+    "bid": "3.8353",
+    "ask": "3.9127",
+    "bidDifference": "0,0343",
+    "askDifference": "0,0349"
+  },
+  {
+    "effectiveDate": "2021-08-10",
+    "bid": "3.8430",
+    "ask": "3.9206",
+    "bidDifference": "0,0077",
+    "askDifference": "0,0079"
+  },
+  {
+    "effectiveDate": "2021-08-11",
+    "bid": "3.8678",
+    "ask": "3.9460",
+    "bidDifference": "0,0248",
+    "askDifference": "0,0254"
+  },
+  {
+    "effectiveDate": "2021-08-12",
+    "bid": "3.8660",
+    "ask": "3.9442",
+    "bidDifference": "-0,0018",
+    "askDifference": "-0,0018"
+  },
+  {
+    "effectiveDate": "2021-08-13",
+    "bid": "3.8660",
+    "ask": "3.9442",
+    "bidDifference": "0,0000",
+    "askDifference": "0,0000"
+  },
+  {
+    "effectiveDate": "2021-08-16",
+    "bid": "3.8497",
+    "ask": "3.9275",
+    "bidDifference": "-0,0163",
+    "askDifference": "-0,0167"
+  },
+  {
+    "effectiveDate": "2021-08-17",
+    "bid": "3.8407",
+    "ask": "3.9183",
+    "bidDifference": "-0,0090",
+    "askDifference": "-0,0092"
+  },
+  {
+    "effectiveDate": "2021-08-18",
+    "bid": "3.8480",
+    "ask": "3.9258",
+    "bidDifference": "0,0073",
+    "askDifference": "0,0075"
+  },
+  {
+    "effectiveDate": "2021-08-19",
+    "bid": "3.8522",
+    "ask": "3.9300",
+    "bidDifference": "0,0042",
+    "askDifference": "0,0042"
+  },
+  {
+    "effectiveDate": "2021-08-20",
+    "bid": "3.8799",
+    "ask": "3.9583",
+    "bidDifference": "0,0277",
+    "askDifference": "0,0283"
+  },
+  {
+    "effectiveDate": "2021-08-23",
+    "bid": "3.8869",
+    "ask": "3.9655",
+    "bidDifference": "0,0070",
+    "askDifference": "0,0072"
+  },
+  {
+    "effectiveDate": "2021-08-24",
+    "bid": "3.8699",
+    "ask": "3.9481",
+    "bidDifference": "-0,0170",
+    "askDifference": "-0,0174"
+  },
+  {
+    "effectiveDate": "2021-08-25",
+    "bid": "3.8566",
+    "ask": "3.9346",
+    "bidDifference": "-0,0133",
+    "askDifference": "-0,0135"
+  },
+  {
+    "effectiveDate": "2021-08-26",
+    "bid": "3.8536",
+    "ask": "3.9314",
+    "bidDifference": "-0,0030",
+    "askDifference": "-0,0032"
+  },
+  {
+    "effectiveDate": "2021-08-27",
+    "bid": "3.8551",
+    "ask": "3.9329",
+    "bidDifference": "0,0015",
+    "askDifference": "0,0015"
+  },
+  {
+    "effectiveDate": "2021-08-30",
+    "bid": "3.8497",
+    "ask": "3.9275",
+    "bidDifference": "-0,0054",
+    "askDifference": "-0,0054"
+  },
+  {
+    "effectiveDate": "2021-08-31",
+    "bid": "3.8356",
+    "ask": "3.9130",
+    "bidDifference": "-0,0141",
+    "askDifference": "-0,0145"
+  },
+  {
+    "effectiveDate": "2021-09-01",
+    "bid": "3.7922",
+    "ask": "3.8688",
+    "bidDifference": "-0,0434",
+    "askDifference": "-0,0442"
+  },
+  {
+    "effectiveDate": "2021-09-02",
+    "bid": "3.7674",
+    "ask": "3.8436",
+    "bidDifference": "-0,0248",
+    "askDifference": "-0,0252"
+  },
+  {
+    "effectiveDate": "2021-09-03",
+    "bid": "3.7637",
+    "ask": "3.8397",
+    "bidDifference": "-0,0037",
+    "askDifference": "-0,0039"
+  },
+  {
+    "effectiveDate": "2021-09-06",
+    "bid": "3.7572",
+    "ask": "3.8332",
+    "bidDifference": "-0,0065",
+    "askDifference": "-0,0065"
+  },
+  {
+    "effectiveDate": "2021-09-07",
+    "bid": "3.7749",
+    "ask": "3.8511",
+    "bidDifference": "0,0177",
+    "askDifference": "0,0179"
+  },
+  {
+    "effectiveDate": "2021-09-08",
+    "bid": "3.7702",
+    "ask": "3.8464",
+    "bidDifference": "-0,0047",
+    "askDifference": "-0,0047"
+  },
+  {
+    "effectiveDate": "2021-09-09",
+    "bid": "3.7847",
+    "ask": "3.8611",
+    "bidDifference": "0,0145",
+    "askDifference": "0,0147"
+  },
+  {
+    "effectiveDate": "2021-09-10",
+    "bid": "3.8027",
+    "ask": "3.8795",
+    "bidDifference": "0,0180",
+    "askDifference": "0,0184"
+  },
+  {
+    "effectiveDate": "2021-09-13",
+    "bid": "3.8044",
+    "ask": "3.8812",
+    "bidDifference": "0,0017",
+    "askDifference": "0,0017"
+  },
+  {
+    "effectiveDate": "2021-09-14",
+    "bid": "3.8146",
+    "ask": "3.8916",
+    "bidDifference": "0,0102",
+    "askDifference": "0,0104"
+  },
+  {
+    "effectiveDate": "2021-09-15",
+    "bid": "3.8073",
+    "ask": "3.8843",
+    "bidDifference": "-0,0073",
+    "askDifference": "-0,0073"
+  },
+  {
+    "effectiveDate": "2021-09-16",
+    "bid": "3.8168",
+    "ask": "3.8940",
+    "bidDifference": "0,0095",
+    "askDifference": "0,0097"
+  },
+  {
+    "effectiveDate": "2021-09-17",
+    "bid": "3.8567",
+    "ask": "3.9347",
+    "bidDifference": "0,0399",
+    "askDifference": "0,0407"
+  },
+  {
+    "effectiveDate": "2021-09-20",
+    "bid": "3.8622",
+    "ask": "3.9402",
+    "bidDifference": "0,0055",
+    "askDifference": "0,0055"
+  },
+  {
+    "effectiveDate": "2021-09-21",
+    "bid": "3.8875",
+    "ask": "3.9661",
+    "bidDifference": "0,0253",
+    "askDifference": "0,0259"
+  },
+  {
+    "effectiveDate": "2021-09-22",
+    "bid": "3.9036",
+    "ask": "3.9824",
+    "bidDifference": "0,0161",
+    "askDifference": "0,0163"
+  },
+  {
+    "effectiveDate": "2021-09-23",
+    "bid": "3.9054",
+    "ask": "3.9842",
+    "bidDifference": "0,0018",
+    "askDifference": "0,0018"
+  },
+  {
+    "effectiveDate": "2021-09-24",
+    "bid": "3.8897",
+    "ask": "3.9683",
+    "bidDifference": "-0,0157",
+    "askDifference": "-0,0159"
+  },
+  {
+    "effectiveDate": "2021-09-27",
+    "bid": "3.8960",
+    "ask": "3.9748",
+    "bidDifference": "0,0063",
+    "askDifference": "0,0065"
+  },
+  {
+    "effectiveDate": "2021-09-28",
+    "bid": "3.8859",
+    "ask": "3.9645",
+    "bidDifference": "-0,0101",
+    "askDifference": "-0,0103"
+  },
+  {
+    "effectiveDate": "2021-09-29",
+    "bid": "3.9277",
+    "ask": "4.0071",
+    "bidDifference": "0,0418",
+    "askDifference": "0,0426"
+  },
+  {
+    "effectiveDate": "2021-09-30",
+    "bid": "3.9429",
+    "ask": "4.0225",
+    "bidDifference": "0,0152",
+    "askDifference": "0,0154"
+  },
+  {
+    "effectiveDate": "2021-10-01",
+    "bid": "3.9313",
+    "ask": "4.0107",
+    "bidDifference": "-0,0116",
+    "askDifference": "-0,0118"
+  },
+  {
+    "effectiveDate": "2021-10-04",
+    "bid": "3.9138",
+    "ask": "3.9928",
+    "bidDifference": "-0,0175",
+    "askDifference": "-0,0179"
+  },
+  {
+    "effectiveDate": "2021-10-05",
+    "bid": "3.8935",
+    "ask": "3.9721",
+    "bidDifference": "-0,0203",
+    "askDifference": "-0,0207"
+  },
+  {
+    "effectiveDate": "2021-10-06",
+    "bid": "3.9334",
+    "ask": "4.0128",
+    "bidDifference": "0,0399",
+    "askDifference": "0,0407"
+  },
+  {
+    "effectiveDate": "2021-10-07",
+    "bid": "3.9136",
+    "ask": "3.9926",
+    "bidDifference": "-0,0198",
+    "askDifference": "-0,0202"
+  },
+  {
+    "effectiveDate": "2021-10-08",
+    "bid": "3.9114",
+    "ask": "3.9904",
+    "bidDifference": "-0,0022",
+    "askDifference": "-0,0022"
+  },
+  {
+    "effectiveDate": "2021-10-11",
+    "bid": "3.9523",
+    "ask": "4.0321",
+    "bidDifference": "0,0409",
+    "askDifference": "0,0417"
+  },
+  {
+    "effectiveDate": "2021-10-12",
+    "bid": "3.9292",
+    "ask": "4.0086",
+    "bidDifference": "-0,0231",
+    "askDifference": "-0,0235"
+  },
+  {
+    "effectiveDate": "2021-10-13",
+    "bid": "3.9244",
+    "ask": "4.0036",
+    "bidDifference": "-0,0048",
+    "askDifference": "-0,0050"
+  },
+  {
+    "effectiveDate": "2021-10-14",
+    "bid": "3.9158",
+    "ask": "3.9950",
+    "bidDifference": "-0,0086",
+    "askDifference": "-0,0086"
+  },
+  {
+    "effectiveDate": "2021-10-15",
+    "bid": "3.9021",
+    "ask": "3.9809",
+    "bidDifference": "-0,0137",
+    "askDifference": "-0,0141"
+  },
+  {
+    "effectiveDate": "2021-10-18",
+    "bid": "3.8976",
+    "ask": "3.9764",
+    "bidDifference": "-0,0045",
+    "askDifference": "-0,0045"
+  },
+  {
+    "effectiveDate": "2021-10-19",
+    "bid": "3.9108",
+    "ask": "3.9898",
+    "bidDifference": "0,0132",
+    "askDifference": "0,0134"
+  },
+  {
+    "effectiveDate": "2021-10-20",
+    "bid": "3.8892",
+    "ask": "3.9678",
+    "bidDifference": "-0,0216",
+    "askDifference": "-0,0220"
+  },
+  {
+    "effectiveDate": "2021-10-21",
+    "bid": "3.9068",
+    "ask": "3.9858",
+    "bidDifference": "0,0176",
+    "askDifference": "0,0180"
+  },
+  {
+    "effectiveDate": "2021-10-22",
+    "bid": "3.9129",
+    "ask": "3.9919",
+    "bidDifference": "0,0061",
+    "askDifference": "0,0061"
+  },
+  {
+    "effectiveDate": "2021-10-25",
+    "bid": "3.9124",
+    "ask": "3.9914",
+    "bidDifference": "-0,0005",
+    "askDifference": "-0,0005"
+  },
+  {
+    "effectiveDate": "2021-10-26",
+    "bid": "3.9339",
+    "ask": "4.0133",
+    "bidDifference": "0,0215",
+    "askDifference": "0,0219"
+  },
+  {
+    "effectiveDate": "2021-10-27",
+    "bid": "3.9270",
+    "ask": "4.0064",
+    "bidDifference": "-0,0069",
+    "askDifference": "-0,0069"
+  },
+  {
+    "effectiveDate": "2021-10-28",
+    "bid": "3.9388",
+    "ask": "4.0184",
+    "bidDifference": "0,0118",
+    "askDifference": "0,0120"
+  },
+  {
+    "effectiveDate": "2021-10-29",
+    "bid": "3.9256",
+    "ask": "4.0050",
+    "bidDifference": "-0,0132",
+    "askDifference": "-0,0134"
+  },
+  {
+    "effectiveDate": "2021-11-02",
+    "bid": "3.9328",
+    "ask": "4.0122",
+    "bidDifference": "0,0072",
+    "askDifference": "0,0072"
+  },
+  {
+    "effectiveDate": "2021-11-03",
+    "bid": "3.9355",
+    "ask": "4.0151",
+    "bidDifference": "0,0027",
+    "askDifference": "0,0029"
+  },
+  {
+    "effectiveDate": "2021-11-04",
+    "bid": "3.9221",
+    "ask": "4.0013",
+    "bidDifference": "-0,0134",
+    "askDifference": "-0,0138"
+  },
+  {
+    "effectiveDate": "2021-11-05",
+    "bid": "3.9437",
+    "ask": "4.0233",
+    "bidDifference": "0,0216",
+    "askDifference": "0,0220"
+  },
+  {
+    "effectiveDate": "2021-11-08",
+    "bid": "3.9476",
+    "ask": "4.0274",
+    "bidDifference": "0,0039",
+    "askDifference": "0,0041"
+  },
+  {
+    "effectiveDate": "2021-11-09",
+    "bid": "3.9295",
+    "ask": "4.0089",
+    "bidDifference": "-0,0181",
+    "askDifference": "-0,0185"
+  },
+  {
+    "effectiveDate": "2021-11-10",
+    "bid": "3.9195",
+    "ask": "3.9987",
+    "bidDifference": "-0,0100",
+    "askDifference": "-0,0102"
+  },
+  {
+    "effectiveDate": "2021-11-12",
+    "bid": "3.9496",
+    "ask": "4.0294",
+    "bidDifference": "0,0301",
+    "askDifference": "0,0307"
+  },
+  {
+    "effectiveDate": "2021-11-15",
+    "bid": "4.0153",
+    "ask": "4.0965",
+    "bidDifference": "0,0657",
+    "askDifference": "0,0671"
+  },
+  {
+    "effectiveDate": "2021-11-16",
+    "bid": "4.0146",
+    "ask": "4.0958",
+    "bidDifference": "-0,0007",
+    "askDifference": "-0,0007"
+  },
+  {
+    "effectiveDate": "2021-11-17",
+    "bid": "4.0617",
+    "ask": "4.1437",
+    "bidDifference": "0,0471",
+    "askDifference": "0,0479"
+  },
+  {
+    "effectiveDate": "2021-11-18",
+    "bid": "4.0746",
+    "ask": "4.1570",
+    "bidDifference": "0,0129",
+    "askDifference": "0,0133"
+  },
+  {
+    "effectiveDate": "2021-11-19",
+    "bid": "4.0683",
+    "ask": "4.1505",
+    "bidDifference": "-0,0063",
+    "askDifference": "-0,0065"
+  },
+  {
+    "effectiveDate": "2021-11-22",
+    "bid": "4.1022",
+    "ask": "4.1850",
+    "bidDifference": "0,0339",
+    "askDifference": "0,0345"
+  },
+  {
+    "effectiveDate": "2021-11-23",
+    "bid": "4.1212",
+    "ask": "4.2044",
+    "bidDifference": "0,0190",
+    "askDifference": "0,0194"
+  },
+  {
+    "effectiveDate": "2021-11-24",
+    "bid": "4.1393",
+    "ask": "4.2229",
+    "bidDifference": "0,0181",
+    "askDifference": "0,0185"
+  },
+  {
+    "effectiveDate": "2021-11-25",
+    "bid": "4.1346",
+    "ask": "4.2182",
+    "bidDifference": "-0,0047",
+    "askDifference": "-0,0047"
+  },
+  {
+    "effectiveDate": "2021-11-26",
+    "bid": "4.1213",
+    "ask": "4.2045",
+    "bidDifference": "-0,0133",
+    "askDifference": "-0,0137"
+  },
+  {
+    "effectiveDate": "2021-11-29",
+    "bid": "4.1324",
+    "ask": "4.2158",
+    "bidDifference": "0,0111",
+    "askDifference": "0,0113"
+  },
+  {
+    "effectiveDate": "2021-11-30",
+    "bid": "4.1214",
+    "ask": "4.2046",
+    "bidDifference": "-0,0110",
+    "askDifference": "-0,0112"
+  },
+  {
+    "effectiveDate": "2021-12-01",
+    "bid": "4.0656",
+    "ask": "4.1478",
+    "bidDifference": "-0,0558",
+    "askDifference": "-0,0568"
+  },
+  {
+    "effectiveDate": "2021-12-02",
+    "bid": "4.0270",
+    "ask": "4.1084",
+    "bidDifference": "-0,0386",
+    "askDifference": "-0,0394"
+  },
+  {
+    "effectiveDate": "2021-12-03",
+    "bid": "4.0122",
+    "ask": "4.0932",
+    "bidDifference": "-0,0148",
+    "askDifference": "-0,0152"
+  },
+  {
+    "effectiveDate": "2021-12-06",
+    "bid": "4.0269",
+    "ask": "4.1083",
+    "bidDifference": "0,0147",
+    "askDifference": "0,0151"
+  },
+  {
+    "effectiveDate": "2021-12-07",
+    "bid": "4.0307",
+    "ask": "4.1121",
+    "bidDifference": "0,0038",
+    "askDifference": "0,0038"
+  },
+  {
+    "effectiveDate": "2021-12-08",
+    "bid": "4.0398",
+    "ask": "4.1214",
+    "bidDifference": "0,0091",
+    "askDifference": "0,0093"
+  },
+  {
+    "effectiveDate": "2021-12-09",
+    "bid": "4.0184",
+    "ask": "4.0996",
+    "bidDifference": "-0,0214",
+    "askDifference": "-0,0218"
+  },
+  {
+    "effectiveDate": "2021-12-10",
+    "bid": "4.0324",
+    "ask": "4.1138",
+    "bidDifference": "0,0140",
+    "askDifference": "0,0142"
+  },
+  {
+    "effectiveDate": "2021-12-13",
+    "bid": "4.0539",
+    "ask": "4.1357",
+    "bidDifference": "0,0215",
+    "askDifference": "0,0219"
+  },
+  {
+    "effectiveDate": "2021-12-14",
+    "bid": "4.0606",
+    "ask": "4.1426",
+    "bidDifference": "0,0067",
+    "askDifference": "0,0069"
+  },
+  {
+    "effectiveDate": "2021-12-15",
+    "bid": "4.0529",
+    "ask": "4.1347",
+    "bidDifference": "-0,0077",
+    "askDifference": "-0,0079"
+  },
+  {
+    "effectiveDate": "2021-12-16",
+    "bid": "4.0698",
+    "ask": "4.1520",
+    "bidDifference": "0,0169",
+    "askDifference": "0,0173"
+  },
+  {
+    "effectiveDate": "2021-12-17",
+    "bid": "4.0498",
+    "ask": "4.1316",
+    "bidDifference": "-0,0200",
+    "askDifference": "-0,0204"
+  },
+  {
+    "effectiveDate": "2021-12-20",
+    "bid": "4.0596",
+    "ask": "4.1416",
+    "bidDifference": "0,0098",
+    "askDifference": "0,0100"
+  },
+  {
+    "effectiveDate": "2021-12-21",
+    "bid": "4.0596",
+    "ask": "4.1416",
+    "bidDifference": "0,0000",
+    "askDifference": "0,0000"
+  },
+  {
+    "effectiveDate": "2021-12-22",
+    "bid": "4.0626",
+    "ask": "4.1446",
+    "bidDifference": "0,0030",
+    "askDifference": "0,0030"
+  },
+  {
+    "effectiveDate": "2021-12-23",
+    "bid": "4.0563",
+    "ask": "4.1383",
+    "bidDifference": "-0,0063",
+    "askDifference": "-0,0063"
+  },
+  {
+    "effectiveDate": "2021-12-24",
+    "bid": "4.0527",
+    "ask": "4.1345",
+    "bidDifference": "-0,0036",
+    "askDifference": "-0,0038"
+  },
+  {
+    "effectiveDate": "2021-12-27",
+    "bid": "4.0377",
+    "ask": "4.1193",
+    "bidDifference": "-0,0150",
+    "askDifference": "-0,0152"
+  },
+  {
+    "effectiveDate": "2021-12-28",
+    "bid": "4.0212",
+    "ask": "4.1024",
+    "bidDifference": "-0,0165",
+    "askDifference": "-0,0169"
+  },
+  {
+    "effectiveDate": "2021-12-29",
+    "bid": "4.0240",
+    "ask": "4.1052",
+    "bidDifference": "0,0028",
+    "askDifference": "0,0028"
+  },
+  {
+    "effectiveDate": "2021-12-30",
+    "bid": "4.0133",
+    "ask": "4.0943",
+    "bidDifference": "-0,0107",
+    "askDifference": "-0,0109"
+  },
+  {
+    "effectiveDate": "2021-12-31",
+    "bid": "4.0151",
+    "ask": "4.0963",
+    "bidDifference": "0,0018",
+    "askDifference": "0,0020"
+  }
+]
