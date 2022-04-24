@@ -2,42 +2,38 @@
 
 Project that generates json response of USD/PLN rates.
 
-![MIT licensed][shield-mit] (LICENSE)
-![Java v17][shield-java] (https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/what-is-corretto-17.html)
+## Requirements
 
+The fully fledged server uses the following:
+
+* Spring Framework
+* SpringBoot
+* Feign
+* Appache-commons
+* Swagger2
+* 
+## Dependencies
+
+There are a number of third-party dependencies used in the project. Browse the Maven pom.xml file for details of libraries and versions used.
 
 ## Building
 
-In order to build project generating jar archive use:
+You will need:
+
+*	Java JDK 17 or higher
+*	Maven 3.8.5 or higher
+*	Git
+
+Clone the project and use Maven to build the server:
 
 ```bash
-mvn clean package
-```
-
-In order to build project generating jar, sources and javadoc archives use:
-
-```bash
-mvn -Prelease clean package
-```
-
-## Running
-
-In order to run use:
-
-```bash
-java -jar target/CurrencyRateDataTransformer-1.0.0-SNAPSHOT.jar
+mvn clean install
 ```
 
 ## License
 
 Project is licensed under the [MIT](LICENSE) license.  
 
-## Used technologies
-
-* Spring
-* feign
-* appache-commons
-* swagger2
 
 ## Documentation
 
