@@ -30,6 +30,11 @@ Clone the project and use Maven to build the server:
 mvn clean install
 ```
 
+## Endpoints
+
+* /api/dates/{startDate} - returns USD/PLN rates from {startDate} to current date in json form
+* /api/dates/{startDate}/{endDate} - returns USD/PLN rates from {startDate} to {endDate} in json form
+
 ## License
 
 Project is licensed under the [MIT](LICENSE) license.  
@@ -44,4 +49,4 @@ http://localhost:8080/swagger-ui/index.html
 
 Postman test collection:
 
-TODO link do pliku z testami postmana
+File: CurrencyRateDataTransformer.postman_collection.json
