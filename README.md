@@ -42,8 +42,7 @@ Project is licensed under the [MIT](LICENSE) license.
 
 ## Documentation
 
-To see the documentation, run the project and visit:
-http://localhost:8080/swagger-ui/index.html
+To see the documentation, run the project and visit /swagger-ui/index.html
 
 ## PostmanTests
 
