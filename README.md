@@ -11,7 +11,7 @@ The fully fledged server uses the following:
 * Feign
 * Appache-commons
 * Swagger2
-* 
+
 ## Dependencies
 
 There are a number of third-party dependencies used in the project. Browse the Maven pom.xml file for details of libraries and versions used.
