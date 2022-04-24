@@ -2,8 +2,8 @@
 
 Project that generates json response of USD/PLN rates.
 
-[ ![MIT licensed][shield-mit] ](LICENSE)
-[ ![Java v17][shield-java] ](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/what-is-corretto-17.html)
+![MIT licensed][shield-mit] (LICENSE)
+![Java v17][shield-java] (https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/what-is-corretto-17.html)
 
 
 ## Building
